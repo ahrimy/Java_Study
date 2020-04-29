@@ -18,7 +18,7 @@ public class ArrayEx09 {
 
 			System.out.print("메뉴 선택 : ");
 			int sel = scan.nextInt();
-			;
+			
 			if (sel == 1) {
 				System.out.print("[");
 				for(int i=0;i<7;i++){
