@@ -215,6 +215,18 @@ public class Test01 {
 			System.out.println();
 		}
 		
+
+		cnt = 0;
+		for (int i = 0; i < size; i++) {
+			for (int j = 0; j < size; j++) {
+				System.out.print(" " + map[i][j]);
+				if(map[i][j]==3){
+					cnt++;
+				}
+			}
+			System.out.println();
+		}
+
 		System.out.println("Count : "+count);
 		System.out.println("Check : "+cnt);
 
