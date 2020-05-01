@@ -1,4 +1,4 @@
-package java07_02;
+package java7_02;
 class Student{
 	String name;
 	int score;

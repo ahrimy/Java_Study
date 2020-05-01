@@ -1,4 +1,4 @@
-package java07_02;
+package java7_02;
 
 import java.util.Random;
 import java.util.Scanner;

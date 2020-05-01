@@ -1,4 +1,4 @@
-package java07_02;
+package java7_02;
 class Test{
 	int num;
 	int size;
